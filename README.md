@@ -4,7 +4,3 @@
 </p>
 
 <br>
-
-Credits: [WaveCE29] https://github.com/WaveCE29
-
-Last Edited on: 30/4/2022
