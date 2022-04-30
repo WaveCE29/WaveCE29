@@ -4,3 +4,22 @@
 </p>
 
 <br>
+
+## :sassy_man:  About me
+- :school: I am a `Junior` at Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer
+- :student: I’m currently learning: `Computer Engineering`.
+- :nerd_face: Always `learning new things`
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=WaveCE29&date_format=M%20j%5B%2C%20Y%5D"/></p>
+
+
+### ⚙️ GitHub Analytics
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaveCE29&layout=compact&hide_border=true"  /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaveCE29&show_icons=true&hide_border=true" /> |
+| ------------- | ------------- |
+
