@@ -7,8 +7,6 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer
 - :student: I’m currently learning: `Computer Engineering`.
 - :nerd_face: Always `learning new things`
 
