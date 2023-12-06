@@ -6,9 +6,9 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
-- :student: I’m currently learning: `Computer Engineering`.
-- :nerd_face: Always `learning new things`
+- :school: I'm a graduate of the Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
+- :student: I specialized in `Computer Engineering` during my studies.
+- :nerd_face: Always `eager to learn new things`
 
 <br>
 
