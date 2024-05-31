@@ -9,7 +9,7 @@
 - :school: I'm a graduate of the Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
 - :student: I specialized in `Computer Engineering` during my studies.
 - :nerd_face: Always `eager to learn new things`
-- 🌱 I’m currently learning **FastAPI** python
+- 🌱 I’m currently learning **FastAPI** python , **GIN** , **Fiber** Golang
 
 <br>
 
