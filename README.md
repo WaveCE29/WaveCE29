@@ -6,8 +6,9 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I'm a graduate of the Faculty of Engineering at King Mongkut's Institute of Technology Ladkrabang
-- :student: I specialized in `Computer Engineering` during my studies.
+- 👨🏽‍💻 I currently work as a Software Engineer.
+- 💻 My main duties involve backend development and mobile application development.
+- :school: I graduated with a bachelor's degree in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang.
 - :nerd_face: Always `eager to learn new things`
 - 🌱 I’m currently learning **FastAPI** python , **GIN** , **Fiber** Golang
 
