@@ -10,7 +10,7 @@
 - 💻 My main duties are backend development and mobile application development.
 - :school: I graduated with a bachelor's degree in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang.
 - :nerd_face: Always `eager to learn new things`
-- 🌱 I’m currently learning **FastAPI** python , **GIN** , **Fiber** Golang
+- 🌱 I’m currently learning **FastAPI** python , **Fiber** Golang
 
 <br>
 
