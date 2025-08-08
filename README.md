@@ -15,7 +15,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=WaveCE29&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=WaveCE29" alt="GitHub Streak" /></a>
 
 
 ### ⚙️ GitHub Analytics
